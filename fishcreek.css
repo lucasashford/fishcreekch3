@@ -1,0 +1,57 @@
+body
+{
+	background-color: #ffffff;
+	color: #003366;
+	font-family: verdana;
+	
+	
+}
+
+
+
+
+h1
+{
+	line-height: 200%;
+	text-indent: 1em;
+	background-color: #003366;
+	color: #aec3e3;
+}
+
+nav
+
+{
+	font-weight: bold;
+}
+dt
+{
+	color: #5280c5;
+	font-size: 1.1em;
+	font-weight:bold;
+	font-family:Georgia
+}	
+	
+	
+.category
+{
+	font-weight: bold;
+	color: #5380c5;
+	font-size: 1.1em;
+	font-family: Georgia;
+}
+
+	
+footer
+{
+	font-size: .70em;
+	font-style: italic;
+}
+	
+#wrapper
+{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #f0f0f0;
+}
+	
